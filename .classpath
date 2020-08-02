@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_261">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/iText-2.1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/itext7-forms-7.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/itext7-pdfa-7.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/jasperreports-6.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/jasperreports-chart-customizers-6.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/jasperreports-fonts-6.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/jasperreports-functions-6.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/org.springframework.asm-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/org.springframework.beans-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/org.springframework.core_3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/org.springframework.core-3.1.0.M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/org.springframework.core-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/org.springframework.core-sources-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Informatica/Desktop/JAVA EE/Proyectos/Eclipse/pickup/Librerias/reportes/tools-1.6.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
